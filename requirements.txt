@@ -1,0 +1,8 @@
+ipykernel
+langchain
+langchain-community
+pypdf
+sentence-transformers
+pinecone[grpc]
+langchain_pinecone
+langchain_huggingface
