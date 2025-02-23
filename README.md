@@ -11,7 +11,7 @@ conda create -n medical_chatbot python=3.10 -y
 ```
 
 ```bash
-conda activate medibot
+conda activate medical_chatbot
 ```
 
 ### STEP 02- Install the requirements
